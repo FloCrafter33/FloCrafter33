@@ -1,0 +1,5 @@
+- 👋 Hi, I’m the administrator from Nindroid.
+- 👀 I’m interested in computers, the internet, tor, server etc.
+- 🌱 I’m currently learning server management.
+- 💞️ I’m looking to collaborate on server projects.
+- 📫 You can reach me at the email address projekte@nindroid.net
